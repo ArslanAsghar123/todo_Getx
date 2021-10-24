@@ -1,6 +1,14 @@
 # todo
 
-A new Flutter project.
+A new Flutter Getx todo app.
+
+tools used in this app:
+Getx
+Sqflite
+Getstorage
+intl
+time_management
+
 
 ## Getting Started
 
